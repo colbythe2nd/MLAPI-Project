@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@colbythe2nd 
-colbythe2nd
-/
-MLAPI-Project
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-MLAPI-Project/.gitignore
-@colbythe2nd
-colbythe2nd Initial commit
-Latest commit ecec8f6 4 minutes ago
- History
- 1 contributor
-60 lines (49 sloc)  1020 Bytes
-
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
